@@ -1,0 +1,166 @@
+C:\Users\champ\source\repos\Nutricion\Nutricion.API\obj\Debug\net7.0\Nutricion.API.csproj.AssemblyReference.cache
+C:\Users\champ\source\repos\Nutricion\Nutricion.API\obj\Debug\net7.0\Nutricion.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\champ\source\repos\Nutricion\Nutricion.API\obj\Debug\net7.0\Nutricion.API.AssemblyInfoInputs.cache
+C:\Users\champ\source\repos\Nutricion\Nutricion.API\obj\Debug\net7.0\Nutricion.API.AssemblyInfo.cs
+C:\Users\champ\source\repos\Nutricion\Nutricion.API\obj\Debug\net7.0\Nutricion.API.csproj.CoreCompileInputs.cache
+C:\Users\champ\source\repos\Nutricion\Nutricion.API\obj\Debug\net7.0\Nutricion.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\champ\source\repos\Nutricion\Nutricion.API\obj\Debug\net7.0\Nutricion.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\champ\source\repos\Nutricion\Nutricion.API\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\champ\source\repos\Nutricion\Nutricion.API\bin\Debug\net7.0\appsettings.json
+C:\Users\champ\source\repos\Nutricion\Nutricion.API\bin\Debug\net7.0\Nutricion.API.exe
+C:\Users\champ\source\repos\Nutricion\Nutricion.API\bin\Debug\net7.0\Nutricion.API.deps.json
+C:\Users\champ\source\repos\Nutricion\Nutricion.API\bin\Debug\net7.0\Nutricion.API.runtimeconfig.json
+C:\Users\champ\source\repos\Nutricion\Nutricion.API\bin\Debug\net7.0\Nutricion.API.dll
+C:\Users\champ\source\repos\Nutricion\Nutricion.API\bin\Debug\net7.0\Nutricion.API.pdb
+C:\Users\champ\source\repos\Nutricion\Nutricion.API\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\champ\source\repos\Nutricion\Nutricion.API\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\champ\source\repos\Nutricion\Nutricion.API\bin\Debug\net7.0\Humanizer.dll
+C:\Users\champ\source\repos\Nutricion\Nutricion.API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\champ\source\repos\Nutricion\Nutricion.API\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\champ\source\repos\Nutricion\Nutricion.API\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\champ\source\repos\Nutricion\Nutricion.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\champ\source\repos\Nutricion\Nutricion.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\champ\source\repos\Nutricion\Nutricion.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\champ\source\repos\Nutricion\Nutricion.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\champ\source\repos\Nutricion\Nutricion.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\champ\source\repos\Nutricion\Nutricion.API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\champ\source\repos\Nutricion\Nutricion.API\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\champ\source\repos\Nutricion\Nutricion.API\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\champ\source\repos\Nutricion\Nutricion.API\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\champ\source\repos\Nutricion\Nutricion.API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\champ\source\repos\Nutricion\Nutricion.API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\champ\source\repos\Nutricion\Nutricion.API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\champ\source\repos\Nutricion\Nutricion.API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\champ\source\repos\Nutricion\Nutricion.API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\champ\source\repos\Nutricion\Nutricion.API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\champ\source\repos\Nutricion\Nutricion.API\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\champ\source\repos\Nutricion\Nutricion.API\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\champ\source\repos\Nutricion\Nutricion.API\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\champ\source\repos\Nutricion\Nutricion.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\champ\source\repos\Nutricion\Nutricion.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\champ\source\repos\Nutricion\Nutricion.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\champ\source\repos\Nutricion\Nutricion.API\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\champ\source\repos\Nutricion\Nutricion.API\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\champ\source\repos\Nutricion\Nutricion.API\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\champ\source\repos\Nutricion\Nutricion.API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\champ\source\repos\Nutricion\Nutricion.API\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\champ\source\repos\Nutricion\Nutricion.API\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\champ\source\repos\Nutricion\Nutricion.API\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\champ\source\repos\Nutricion\Nutricion.API\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\champ\source\repos\Nutricion\Nutricion.API\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\champ\source\repos\Nutricion\Nutricion.API\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\champ\source\repos\Nutricion\Nutricion.API\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\champ\source\repos\Nutricion\Nutricion.API\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\champ\source\repos\Nutricion\Nutricion.API\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\champ\source\repos\Nutricion\Nutricion.API\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\champ\source\repos\Nutricion\Nutricion.API\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\champ\source\repos\Nutricion\Nutricion.API\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\champ\source\repos\Nutricion\Nutricion.API\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\champ\source\repos\Nutricion\Nutricion.API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\champ\source\repos\Nutricion\Nutricion.API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\champ\source\repos\Nutricion\Nutricion.API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\champ\source\repos\Nutricion\Nutricion.API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\champ\source\repos\Nutricion\Nutricion.API\obj\Debug\net7.0\staticwebassets\msbuild.Nutricion.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\champ\source\repos\Nutricion\Nutricion.API\obj\Debug\net7.0\staticwebassets\msbuild.build.Nutricion.API.props
+C:\Users\champ\source\repos\Nutricion\Nutricion.API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Nutricion.API.props
+C:\Users\champ\source\repos\Nutricion\Nutricion.API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Nutricion.API.props
+C:\Users\champ\source\repos\Nutricion\Nutricion.API\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\champ\source\repos\Nutricion\Nutricion.API\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\champ\source\repos\Nutricion\Nutricion.API\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\champ\source\repos\Nutricion\Nutricion.API\obj\Debug\net7.0\scopedcss\bundle\Nutricion.API.styles.css
+C:\Users\champ\source\repos\Nutricion\Nutricion.API\obj\Debug\net7.0\Nutricion.API.csproj.CopyComplete
+C:\Users\champ\source\repos\Nutricion\Nutricion.API\obj\Debug\net7.0\Nutricion.API.dll
+C:\Users\champ\source\repos\Nutricion\Nutricion.API\obj\Debug\net7.0\refint\Nutricion.API.dll
+C:\Users\champ\source\repos\Nutricion\Nutricion.API\obj\Debug\net7.0\Nutricion.API.pdb
+C:\Users\champ\source\repos\Nutricion\Nutricion.API\obj\Debug\net7.0\Nutricion.API.genruntimeconfig.cache
+C:\Users\champ\source\repos\Nutricion\Nutricion.API\obj\Debug\net7.0\ref\Nutricion.API.dll
+C:\Users\champ\source\repos\Nutricion\Nutricion.API\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\champ\source\repos\Nutricion\Nutricion.API\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\champ\source\repos\Nutricion\Nutricion.API\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\champ\source\repos\Nutricion\Nutricion.API\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\champ\source\repos\Nutricion\Nutricion.API\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\champ\source\repos\Nutricion\Nutricion.API\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\champ\source\repos\Nutricion\Nutricion.API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\David Hernandez\Codigos\ProyectoFinal\Nutricion.API\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\David Hernandez\Codigos\ProyectoFinal\Nutricion.API\bin\Debug\net7.0\appsettings.json
+C:\Users\David Hernandez\Codigos\ProyectoFinal\Nutricion.API\bin\Debug\net7.0\Nutricion.API.exe
+C:\Users\David Hernandez\Codigos\ProyectoFinal\Nutricion.API\bin\Debug\net7.0\Nutricion.API.deps.json
+C:\Users\David Hernandez\Codigos\ProyectoFinal\Nutricion.API\bin\Debug\net7.0\Nutricion.API.runtimeconfig.json
+C:\Users\David Hernandez\Codigos\ProyectoFinal\Nutricion.API\bin\Debug\net7.0\Nutricion.API.dll
+C:\Users\David Hernandez\Codigos\ProyectoFinal\Nutricion.API\bin\Debug\net7.0\Nutricion.API.pdb
+C:\Users\David Hernandez\Codigos\ProyectoFinal\Nutricion.API\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\David Hernandez\Codigos\ProyectoFinal\Nutricion.API\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\David Hernandez\Codigos\ProyectoFinal\Nutricion.API\bin\Debug\net7.0\Humanizer.dll
+C:\Users\David Hernandez\Codigos\ProyectoFinal\Nutricion.API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\David Hernandez\Codigos\ProyectoFinal\Nutricion.API\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\David Hernandez\Codigos\ProyectoFinal\Nutricion.API\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\David Hernandez\Codigos\ProyectoFinal\Nutricion.API\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\David Hernandez\Codigos\ProyectoFinal\Nutricion.API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\David Hernandez\Codigos\ProyectoFinal\Nutricion.API\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\David Hernandez\Codigos\ProyectoFinal\Nutricion.API\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\David Hernandez\Codigos\ProyectoFinal\Nutricion.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\David Hernandez\Codigos\ProyectoFinal\Nutricion.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\David Hernandez\Codigos\ProyectoFinal\Nutricion.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\David Hernandez\Codigos\ProyectoFinal\Nutricion.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\David Hernandez\Codigos\ProyectoFinal\Nutricion.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\David Hernandez\Codigos\ProyectoFinal\Nutricion.API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\David Hernandez\Codigos\ProyectoFinal\Nutricion.API\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\David Hernandez\Codigos\ProyectoFinal\Nutricion.API\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\David Hernandez\Codigos\ProyectoFinal\Nutricion.API\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\David Hernandez\Codigos\ProyectoFinal\Nutricion.API\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\David Hernandez\Codigos\ProyectoFinal\Nutricion.API\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\David Hernandez\Codigos\ProyectoFinal\Nutricion.API\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\David Hernandez\Codigos\ProyectoFinal\Nutricion.API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\David Hernandez\Codigos\ProyectoFinal\Nutricion.API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\David Hernandez\Codigos\ProyectoFinal\Nutricion.API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\David Hernandez\Codigos\ProyectoFinal\Nutricion.API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\David Hernandez\Codigos\ProyectoFinal\Nutricion.API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\David Hernandez\Codigos\ProyectoFinal\Nutricion.API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\David Hernandez\Codigos\ProyectoFinal\Nutricion.API\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\David Hernandez\Codigos\ProyectoFinal\Nutricion.API\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\David Hernandez\Codigos\ProyectoFinal\Nutricion.API\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\David Hernandez\Codigos\ProyectoFinal\Nutricion.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\David Hernandez\Codigos\ProyectoFinal\Nutricion.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\David Hernandez\Codigos\ProyectoFinal\Nutricion.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\David Hernandez\Codigos\ProyectoFinal\Nutricion.API\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\David Hernandez\Codigos\ProyectoFinal\Nutricion.API\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\David Hernandez\Codigos\ProyectoFinal\Nutricion.API\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\David Hernandez\Codigos\ProyectoFinal\Nutricion.API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\David Hernandez\Codigos\ProyectoFinal\Nutricion.API\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\David Hernandez\Codigos\ProyectoFinal\Nutricion.API\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\David Hernandez\Codigos\ProyectoFinal\Nutricion.API\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\David Hernandez\Codigos\ProyectoFinal\Nutricion.API\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\David Hernandez\Codigos\ProyectoFinal\Nutricion.API\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\David Hernandez\Codigos\ProyectoFinal\Nutricion.API\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\David Hernandez\Codigos\ProyectoFinal\Nutricion.API\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\David Hernandez\Codigos\ProyectoFinal\Nutricion.API\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\David Hernandez\Codigos\ProyectoFinal\Nutricion.API\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\David Hernandez\Codigos\ProyectoFinal\Nutricion.API\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\David Hernandez\Codigos\ProyectoFinal\Nutricion.API\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\David Hernandez\Codigos\ProyectoFinal\Nutricion.API\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\David Hernandez\Codigos\ProyectoFinal\Nutricion.API\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\David Hernandez\Codigos\ProyectoFinal\Nutricion.API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\David Hernandez\Codigos\ProyectoFinal\Nutricion.API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\David Hernandez\Codigos\ProyectoFinal\Nutricion.API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\David Hernandez\Codigos\ProyectoFinal\Nutricion.API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\David Hernandez\Codigos\ProyectoFinal\Nutricion.API\obj\Debug\net7.0\Nutricion.API.csproj.AssemblyReference.cache
+C:\Users\David Hernandez\Codigos\ProyectoFinal\Nutricion.API\obj\Debug\net7.0\Nutricion.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David Hernandez\Codigos\ProyectoFinal\Nutricion.API\obj\Debug\net7.0\Nutricion.API.AssemblyInfoInputs.cache
+C:\Users\David Hernandez\Codigos\ProyectoFinal\Nutricion.API\obj\Debug\net7.0\Nutricion.API.AssemblyInfo.cs
+C:\Users\David Hernandez\Codigos\ProyectoFinal\Nutricion.API\obj\Debug\net7.0\Nutricion.API.csproj.CoreCompileInputs.cache
+C:\Users\David Hernandez\Codigos\ProyectoFinal\Nutricion.API\obj\Debug\net7.0\Nutricion.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\David Hernandez\Codigos\ProyectoFinal\Nutricion.API\obj\Debug\net7.0\Nutricion.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\David Hernandez\Codigos\ProyectoFinal\Nutricion.API\obj\Debug\net7.0\staticwebassets\msbuild.Nutricion.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\David Hernandez\Codigos\ProyectoFinal\Nutricion.API\obj\Debug\net7.0\staticwebassets\msbuild.build.Nutricion.API.props
+C:\Users\David Hernandez\Codigos\ProyectoFinal\Nutricion.API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Nutricion.API.props
+C:\Users\David Hernandez\Codigos\ProyectoFinal\Nutricion.API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Nutricion.API.props
+C:\Users\David Hernandez\Codigos\ProyectoFinal\Nutricion.API\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\David Hernandez\Codigos\ProyectoFinal\Nutricion.API\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\David Hernandez\Codigos\ProyectoFinal\Nutricion.API\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\David Hernandez\Codigos\ProyectoFinal\Nutricion.API\obj\Debug\net7.0\scopedcss\bundle\Nutricion.API.styles.css
+C:\Users\David Hernandez\Codigos\ProyectoFinal\Nutricion.API\obj\Debug\net7.0\Nutricion.API.csproj.CopyComplete
+C:\Users\David Hernandez\Codigos\ProyectoFinal\Nutricion.API\obj\Debug\net7.0\Nutricion.API.dll
+C:\Users\David Hernandez\Codigos\ProyectoFinal\Nutricion.API\obj\Debug\net7.0\refint\Nutricion.API.dll
+C:\Users\David Hernandez\Codigos\ProyectoFinal\Nutricion.API\obj\Debug\net7.0\Nutricion.API.pdb
+C:\Users\David Hernandez\Codigos\ProyectoFinal\Nutricion.API\obj\Debug\net7.0\Nutricion.API.genruntimeconfig.cache
+C:\Users\David Hernandez\Codigos\ProyectoFinal\Nutricion.API\obj\Debug\net7.0\ref\Nutricion.API.dll

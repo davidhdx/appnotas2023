@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Nutricion.Pages.LoginPage"
+             Title="Login or Sign In">
+    
+    <VerticalStackLayout>
+        <Image
+            Source="C:\Users\David Hernandez\Codigos\ProyectoFinal\Nutricion\Resources\Images\notes.png"
+            HeightRequest="200"
+            HorizontalOptions="Center" />
+
+        <Entry x:Name="txtUsername" Placeholder="Username"></Entry>
+        <Entry x:Name="txtPwd" Placeholder="Password"></Entry>
+        <Button x:Name=" btnRegister" Text="Login or Sign In" Clicked="btnRegister_Clicked"></Button>
+    </VerticalStackLayout>
+</ContentPage>
