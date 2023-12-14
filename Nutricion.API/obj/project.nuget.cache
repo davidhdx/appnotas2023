@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MRd7YhrFpR7hXKlmKkWBO4LQvXf0sDEF8d4X9V1VX8dBkQQ3gpR65wXw/Y9RVUSKQ2gyYrt5PSXR1q6Gr5ZQyA==",
+  "dgSpecHash": "fSrhkEq2ZwekY3y2Yl07bVeDKjIabVW2xT3vh0gL7j9vbJBPt+wmSwUoXdMi7OkaMA0vuinhwSeOI167qqH5xQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\David Hernandez\\Codigos\\ProyectoFinal\\Nutricion.API\\Nutricion.API.csproj",
+  "projectFilePath": "C:\\Users\\David Hernandez\\Codigos\\ProyectoFinal\\appnotas2023\\Nutricion.API\\Nutricion.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\David Hernandez\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\David Hernandez\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

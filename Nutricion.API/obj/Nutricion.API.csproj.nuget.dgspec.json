@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\David Hernandez\\Codigos\\ProyectoFinal\\Nutricion.API\\Nutricion.API.csproj": {}
+    "C:\\Users\\David Hernandez\\Codigos\\ProyectoFinal\\appnotas2023\\Nutricion.API\\Nutricion.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\David Hernandez\\Codigos\\ProyectoFinal\\Nutricion.API\\Nutricion.API.csproj": {
+    "C:\\Users\\David Hernandez\\Codigos\\ProyectoFinal\\appnotas2023\\Nutricion.API\\Nutricion.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\David Hernandez\\Codigos\\ProyectoFinal\\Nutricion.API\\Nutricion.API.csproj",
+        "projectUniqueName": "C:\\Users\\David Hernandez\\Codigos\\ProyectoFinal\\appnotas2023\\Nutricion.API\\Nutricion.API.csproj",
         "projectName": "Nutricion.API",
-        "projectPath": "C:\\Users\\David Hernandez\\Codigos\\ProyectoFinal\\Nutricion.API\\Nutricion.API.csproj",
+        "projectPath": "C:\\Users\\David Hernandez\\Codigos\\ProyectoFinal\\appnotas2023\\Nutricion.API\\Nutricion.API.csproj",
         "packagesPath": "C:\\Users\\David Hernandez\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\David Hernandez\\Codigos\\ProyectoFinal\\Nutricion.API\\obj\\",
+        "outputPath": "C:\\Users\\David Hernandez\\Codigos\\ProyectoFinal\\appnotas2023\\Nutricion.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

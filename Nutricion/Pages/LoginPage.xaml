@@ -6,7 +6,7 @@
     
     <VerticalStackLayout>
         <Image
-            Source="C:\Users\David Hernandez\Codigos\ProyectoFinal\Nutricion\Resources\Images\notes.png"
+            Source="C:\Users\David Hernandez\Codigos\ProyectoFinal\appnotas2023\Nutricion\Resources\Images\notes.png"
             HeightRequest="200"
             HorizontalOptions="Center" />
 

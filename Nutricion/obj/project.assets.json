@@ -36048,11 +36048,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\David Hernandez\\Codigos\\ProyectoFinal\\Nutricion\\Nutricion.csproj",
+      "projectUniqueName": "C:\\Users\\David Hernandez\\Codigos\\ProyectoFinal\\appnotas2023\\Nutricion\\Nutricion.csproj",
       "projectName": "Nutricion",
-      "projectPath": "C:\\Users\\David Hernandez\\Codigos\\ProyectoFinal\\Nutricion\\Nutricion.csproj",
+      "projectPath": "C:\\Users\\David Hernandez\\Codigos\\ProyectoFinal\\appnotas2023\\Nutricion\\Nutricion.csproj",
       "packagesPath": "C:\\Users\\David Hernandez\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\David Hernandez\\Codigos\\ProyectoFinal\\Nutricion\\obj\\",
+      "outputPath": "C:\\Users\\David Hernandez\\Codigos\\ProyectoFinal\\appnotas2023\\Nutricion\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [

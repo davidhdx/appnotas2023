@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9paJ01TDPQPNXPXXQ63YclGaNFot3unTIedA9DwLHuSpjHww79tWnrsfpR4X8/VFXH7OmGPISyvmbtebijdI5w==",
+  "dgSpecHash": "2hn+0x1mtNHsuvgmd2boEWeg+M4om0WafMgHKvICgpV8Dm7HEbyAryCEOzQNnONkvsQbOCF5IVRTYuU7SaIwwA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\David Hernandez\\Codigos\\ProyectoFinal\\Nutricion\\Nutricion.csproj",
+  "projectFilePath": "C:\\Users\\David Hernandez\\Codigos\\ProyectoFinal\\appnotas2023\\Nutricion\\Nutricion.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\David Hernandez\\.nuget\\packages\\googlegson\\2.9.1.1\\googlegson.2.9.1.1.nupkg.sha512",
     "C:\\Users\\David Hernandez\\.nuget\\packages\\microsoft.appcenter\\5.0.2\\microsoft.appcenter.5.0.2.nupkg.sha512",
